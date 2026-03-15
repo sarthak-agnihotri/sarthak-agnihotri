@@ -38,8 +38,18 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-agnihotri/)
+<p align="center">
+<a href="https://www.linkedin.com/in/sarthak-agnihotri/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sarthak0144@gmail.com)
+<a href="mailto:sarthak0144@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/sarthak-agnihotri">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+</p>
