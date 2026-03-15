@@ -18,15 +18,9 @@
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mongodb,docker,git&theme=dark" />
+</p>
 
 ---
 
