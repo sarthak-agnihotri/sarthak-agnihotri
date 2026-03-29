@@ -1,26 +1,27 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,6a11cb,100,2575fc&height=200&section=header&text=Sarthak%20Agnihotri&fontSize=60&fontAlignY=35&animation=twinkling" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Enthusiast;AI+Practitioner&center=true&width=500&height=45&color=2575fc">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Enthusiast;&center=true&width=500&height=45&color=2575fc">
 
   ### 🎓 Computer Science Student @ Your University
   
- <div align="center">
+<div align="center">
 
 ### 🌐 Let's Connect
+
 <p align="center">
 <a href="https://sarthak-portfolio.vercel.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" alt="Portfolio" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sarthak-agnihotri/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sarthak0144@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="Gmail" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sarthak-agnihotri" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="50" width="50" alt="GitHub" />
 </a>
