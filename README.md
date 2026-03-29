@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak-agnihotri&show_icons=true&theme=tokyonight)
+![Sarthak's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sarthak-agnihotri&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-agnihotri&layout=compact&theme=tokyonight)
 
