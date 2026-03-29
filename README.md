@@ -9,17 +9,20 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-<a href="https://sarthak-portfolio.vercel.app/">
-  <img src="Gemini_Generated_Image_vr99tsvr99tsvr99.png" height="45" alt="Portfolio" />
+<a href="https://sarthak-portfolio.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/sarthak-agnihotri/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+&nbsp;
+<a href="https://www.linkedin.com/in/sarthak-agnihotri/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:sarthak0144@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="Gmail" />
 </a>
-<a href="https://github.com/sarthak-agnihotri">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+&nbsp;
+<a href="https://github.com/sarthak-agnihotri" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" width="50" alt="GitHub" />
 </a>
 </p>
 
