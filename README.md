@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6a11cb&height=220&section=header&text=Sarthak%20Agnihotri&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,6a11cb,100,2575fc&height=200&section=header&text=Sarthak%20Agnihotri&fontSize=60&fontAlignY=35&animation=twinkling" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Enthusiast;AI+Practitioner&center=true&width=500&height=45&color=2575fc">
 
