@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Enthusiast;&center=true&width=500&height=45&color=2575fc">
 
-  ### 🎓 Computer Science Student @ Your University
+  ### 🎓 Computer Science Student
   
 <div align="center">
 
