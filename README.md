@@ -7,16 +7,16 @@
   
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-agnihotri/)
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak0144@gmail.com)
-  [![](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=react&logoColor=white)](#)
+  [![](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=react&logoColor=white)](https://sarthak-agnihotri-portfolio.vercel.app/)
 </div>
 
 ---
 
 ### ⚡ Quick Overview
-I build bridge-scale applications between **Development** and **Operations**. Currently focusing on automating AI deployments and mastering the MERN stack.
+I build bridge-scale applications between **Development** and **Operations**. Currently focusing on mastering the MERN stack and cloud automation.
 
-- 🔭 **Working on:** Advanced Cloud Infrastructures
-- 🌱 **Learning:** Kubernetes & LLM Fine-tuning
+- 🔭 **Working on:** Advanced Web Architectures
+- 🌱 **Learning:** Kubernetes & Cloud-Native Development
 - 💬 **Ask me about:** Java, React, or Docker
 
 ---
@@ -30,17 +30,17 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 ### 🚀 Featured Work
 
-> [!TIP]
-> ### AI Safety Gear Detection System
-> **Tech:** Python, OpenCV, YOLO
-> * Developed a real-time computer vision system to detect PPE compliance.
-> * Optimized for low-latency edge devices.
-
 > [!IMPORTANT]
+> ### GST Billing & Management Software
+> **Tech:** Java | React | Node.js | MongoDB
+> * Built a comprehensive billing system to automate GST calculation and invoice generation.
+> * Implemented secure data management for tax compliance and business reporting.
+
+> [!TIP]
 > ### Social Network Graph Visualizer
-> **Tech:** React, D3.js, Node.js
-> * Visualized complex relationship mapping using force-directed graphs.
-> * Interactive UI for data exploration.
+> **Tech:** React | D3.js | Node.js
+> * Engineered an interactive UI to visualize complex data relationships using force-directed graphs.
+> * Optimized front-end rendering to handle large datasets and real-time node updates.
 
 ---
 
