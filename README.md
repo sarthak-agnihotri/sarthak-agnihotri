@@ -10,7 +10,7 @@
 ### 🌐 Let's Connect
 <p align="center">
 <a href="https://sarthak-portfolio.vercel.app/">
-  <img src="Gemini_Generated_Image_vr99tsvr99tsvr99.png" height="45" alt="Portfolio" />
+  <img src="blob:https://gemini.google.com/96278312-83b8-4a94-a972-ff64265d9889" height="45" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/sarthak-agnihotri/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
