@@ -5,11 +5,23 @@
 
   ### 🎓 Computer Science Student @ Your University
   
-  <div align="center">
+ <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-agnihotri/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak0144@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthak-agnihotri)
+### 🌐 Let's Connect
+<p align="center">
+<a href="https://sarthak-agnihotri-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2575fc?style=for-the-badge&logo=react&logoColor=white" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/sarthak-agnihotri/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+<a href="mailto:sarthak0144@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+<a href="https://github.com/sarthak-agnihotri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+</a>
+</p>
 
 </div>
 </div>
