@@ -38,7 +38,7 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 > [!TIP]
 > ### Social Network Graph Visualizer
-> **Tech:** React | D3.js | Node.js
+> **Tech:** React | Java | Node.js
 > * Engineered an interactive UI to visualize complex data relationships using force-directed graphs.
 > * Optimized front-end rendering to handle large datasets and real-time node updates.
 
