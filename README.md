@@ -10,7 +10,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-<a href="https://sarthak-portfolio.vercel.app/" target="_blank">
+<a href="https://sarthak-agnihotri-portfolio.vercel.app/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" height="50" width="50" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
