@@ -3,9 +3,32 @@
      width="100%"
      alt="Sarthak Agnihotri - 3D Developer Banner" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Enthusiast;&center=true&width=500&height=45&color=2575fc">
+<div align="center">
 
-  ### 🎓 Computer Science Student
+  <h1>Hey, I'm Sarthak Agnihotri 👋</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+Programmer;DevOps+Enthusiast;Exploring+AI+%26+Cloud+Technologies" />
+
+  <br/>
+
+  <p>
+    <b>Building digital experiences. Automating infrastructure. Exploring what's next.</b>
+  </p>
+
+  <p>
+    Computer Science Student @ Lovely Professional University
+  </p>
+
+  <br/>
+
+  <a href="https://sarthak-agnihotri-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-agnihotri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
   
 <div align="center">
 
