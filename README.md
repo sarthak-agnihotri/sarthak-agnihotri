@@ -183,5 +183,19 @@ An interactive application for exploring social relationships through force-dire
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:2563EB&height=120&section=footer" width="100%" />
+
+<h3>✦ BUILD • INNOVATE • REPEAT ✦</h3>
+
+<p>Thanks for visiting my digital space.</p>
+
+<a href="https://github.com/sarthak-agnihotri">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+<br/><br/>
+
 </div>
