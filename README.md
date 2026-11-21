@@ -159,14 +159,26 @@ An interactive application for exploring social relationships through force-dire
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarthak-agnihotri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarthak-agnihotri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthak-agnihotri&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-</p>
+<h2>📊 GITHUB ANALYTICS</h2>
+<p><i>Consistency, contribution and continuous growth.</i></p>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthak-agnihotri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-agnihotri&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=sarthak-agnihotri&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-agnihotri&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
 
 ---
 
