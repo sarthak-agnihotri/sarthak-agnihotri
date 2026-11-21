@@ -68,7 +68,24 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 ### 🛠️ Tech Ecosystem
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,docker,git,html,css,github,vscode,postman&perline=6&theme=dark" />
+
+<h2>⚡ TECHNOLOGY UNIVERSE</h2>
+<p><i>The tools I use to build, develop and automate.</i></p>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,tailwind&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,terraform,ansible,git,github,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FULL--STACK-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/DEVOPS-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/CLOUD%20%26%20AI-0D1117?style=for-the-badge&logo=icloud&logoColor=8B5CF6" />
+
 </div>
 
 ---
