@@ -66,7 +66,7 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 ---
 
-### 🛠️ Tech Ecosystem
+
 <div align="center">
 
 <h2>⚡ TECHNOLOGY UNIVERSE</h2>
@@ -90,7 +90,7 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 ---
 
-### 🚀 Featured Work
+
 
 <div align="center">
 
@@ -157,7 +157,7 @@ An interactive application for exploring social relationships through force-dire
 
 ---
 
-### 📊 Performance Metrics
+
 
 <div align="center">
 
