@@ -157,8 +157,6 @@ An interactive application for exploring social relationships through force-dire
 
 ---
 
-
-
 <div align="center">
 
 <h2>📊 GITHUB ANALYTICS</h2>
@@ -166,20 +164,19 @@ An interactive application for exploring social relationships through force-dire
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthak-agnihotri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthak-agnihotri&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-agnihotri&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=sarthak-agnihotri&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-agnihotri&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=FFFFFF&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-agnihotri&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="85%" src="https://streak-stats.demolab.com?user=sarthak-agnihotri&hide_border=true&background=0B1120&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=38BDF8" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-agnihotri&bg_color=0B1120&color=FFFFFF&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
-
 ---
 
 <div align="center">
