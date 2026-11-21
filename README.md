@@ -92,17 +92,68 @@ I build bridge-scale applications between **Development** and **Operations**. Cu
 
 ### 🚀 Featured Work
 
-> [!IMPORTANT]
-> ### GST Billing & Management Software
-> **Tech:** Java | React | Node.js | MongoDB
-> * Built a comprehensive billing system to automate GST calculation and invoice generation.
-> * Implemented secure data management for tax compliance and business reporting.
+<div align="center">
 
-> [!TIP]
-> ### Social Network Graph Visualizer
-> **Tech:** React | Java | Node.js
-> * Engineered an interactive UI to visualize complex data relationships using force-directed graphs.
-> * Optimized front-end rendering to handle large datasets and real-time node updates.
+<h2>🚀 FEATURED PROJECTS</h2>
+<p><i>Selected work — ideas transformed into applications.</i></p>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏙️ CitySync</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SMART_CITY-2563EB?style=for-the-badge" />
+</p>
+
+<p align="center">
+A platform for inter-departmental cooperation in Indian cities, connecting departments, resources and civic projects.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧾 GST Billing Software</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/BUSINESS_AUTOMATION-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+A billing management application focused on GST calculations, invoice generation and organized business records.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<h3>🌐 Social Network Graph Visualizer</h3>
+
+<p>
+An interactive application for exploring social relationships through force-directed graph visualization.
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,java,nodejs" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
